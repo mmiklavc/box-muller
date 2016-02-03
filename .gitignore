@@ -45,3 +45,5 @@ target/
 
 # PDT-specific
 .buildpath
+.idea
+*.iml
